@@ -1,0 +1,348 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Terms of Service - Shiftly</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            padding: 20px;
+        }
+        
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            background: white;
+            border-radius: 12px;
+            box-shadow: 0 10px 40px rgba(0, 0, 0, 0.2);
+            padding: 40px;
+            margin-top: 20px;
+            margin-bottom: 20px;
+        }
+        
+        h1 {
+            color: #E91E63;
+            font-size: 2.5em;
+            margin-bottom: 10px;
+            text-align: center;
+        }
+        
+        .last-updated {
+            text-align: center;
+            color: #666;
+            margin-bottom: 30px;
+            font-size: 0.9em;
+        }
+        
+        h2 {
+            color: #333;
+            font-size: 1.5em;
+            margin-top: 30px;
+            margin-bottom: 15px;
+            padding-bottom: 10px;
+            border-bottom: 2px solid #E91E63;
+        }
+        
+        h3 {
+            color: #555;
+            font-size: 1.2em;
+            margin-top: 20px;
+            margin-bottom: 10px;
+        }
+        
+        p {
+            margin-bottom: 15px;
+            text-align: justify;
+        }
+        
+        ul, ol {
+            margin-left: 20px;
+            margin-bottom: 15px;
+        }
+        
+        li {
+            margin-bottom: 8px;
+        }
+        
+        strong {
+            color: #E91E63;
+        }
+        
+        .important {
+            background: #fff3cd;
+            border-left: 4px solid #ffc107;
+            padding: 15px;
+            margin: 20px 0;
+            border-radius: 4px;
+        }
+        
+        .contact-info {
+            background: #f8f9fa;
+            padding: 20px;
+            border-radius: 8px;
+            margin: 20px 0;
+        }
+        
+        .contact-info p {
+            margin-bottom: 5px;
+        }
+        
+        .hebrew-section {
+            direction: rtl;
+            text-align: right;
+            margin-top: 40px;
+            padding-top: 30px;
+            border-top: 2px solid #ddd;
+        }
+        
+        .hebrew-section h2 {
+            text-align: right;
+            border-bottom: 2px solid #E91E63;
+        }
+        
+        .hebrew-section ul {
+            margin-right: 20px;
+            margin-left: 0;
+        }
+        
+        a {
+            color: #E91E63;
+            text-decoration: none;
+        }
+        
+        a:hover {
+            text-decoration: underline;
+        }
+        
+        @media (max-width: 768px) {
+            .container {
+                padding: 20px;
+                margin: 10px;
+            }
+            
+            h1 {
+                font-size: 2em;
+            }
+            
+            h2 {
+                font-size: 1.3em;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Terms of Service for Shiftly</h1>
+        <p class="last-updated"><strong>Last Updated:</strong> January 2025</p>
+
+        <h2>1. Acceptance of Terms</h2>
+        <p>By downloading, installing, or using the Shiftly mobile application ("App"), you agree to be bound by these Terms of Service ("Terms"). If you do not agree to these Terms, do not use the App.</p>
+
+        <h2>2. Description of Service</h2>
+        <p>Shiftly is a mobile application that provides shift management, time tracking, and payroll calculation services. The App allows users to:</p>
+        <ul>
+            <li>Track work shifts and attendance</li>
+            <li>Calculate salary and payroll deductions</li>
+            <li>Generate reports and export data</li>
+            <li>Manage multiple workplaces and roles</li>
+        </ul>
+
+        <h2>3. User Accounts</h2>
+        <h3>Registration</h3>
+        <ul>
+            <li>You may use the App in guest mode without registration</li>
+            <li>To access cloud features, you must create an account</li>
+            <li>You are responsible for maintaining the confidentiality of your account credentials</li>
+            <li>You agree to notify us immediately of any unauthorized use of your account</li>
+        </ul>
+
+        <h3>Account Requirements</h3>
+        <ul>
+            <li>You must be at least 16 years old to use the App</li>
+            <li>You must provide accurate and complete information when creating an account</li>
+            <li>You are responsible for all activities that occur under your account</li>
+        </ul>
+
+        <h2>4. User Responsibilities</h2>
+        <p>You agree to:</p>
+        <ul>
+            <li>Use the App only for lawful purposes</li>
+            <li>Not attempt to gain unauthorized access to the App or its systems</li>
+            <li>Not interfere with or disrupt the App's operation</li>
+            <li>Not use the App to transmit any harmful code or malware</li>
+            <li>Not reverse engineer, decompile, or disassemble the App</li>
+            <li>Comply with all applicable laws and regulations</li>
+        </ul>
+
+        <h2>5. Data and Privacy</h2>
+        <h3>Your Data</h3>
+        <ul>
+            <li>You retain ownership of all data you input into the App</li>
+            <li>You are responsible for the accuracy of your data</li>
+            <li>We store your data securely as described in our <a href="https://tony9201.github.io/Shiftly--privacy-policy/">Privacy Policy</a></li>
+        </ul>
+
+        <h3>Data Backup</h3>
+        <ul>
+            <li>Registered users: Data is stored in the cloud and synced across devices</li>
+            <li>Guest users: Data is stored locally on your device only</li>
+            <li>You are responsible for backing up your data if using guest mode</li>
+        </ul>
+
+        <h3>Data Deletion</h3>
+        <ul>
+            <li>You may delete your account and all associated data at any time</li>
+            <li>Deleted data will be permanently removed within 30 days</li>
+            <li>We are not responsible for data loss if you delete your account</li>
+        </ul>
+
+        <h2>6. Payroll Calculations Disclaimer</h2>
+        <div class="important">
+            <p><strong>IMPORTANT:</strong> The payroll calculations provided by the App are estimates only and should not be considered as official payroll statements.</p>
+            <ul>
+                <li>Calculations are based on the information you provide</li>
+                <li>Actual payroll may differ due to:
+                    <ul>
+                        <li>Employer-specific policies</li>
+                        <li>Tax law changes</li>
+                        <li>Additional deductions or benefits</li>
+                        <li>Rounding differences</li>
+                    </ul>
+                </li>
+                <li>You should verify all calculations with your employer or a qualified accountant</li>
+                <li>We are not responsible for any discrepancies between App calculations and actual payroll</li>
+            </ul>
+        </div>
+
+        <h2>7. Intellectual Property</h2>
+        <h3>Our Rights</h3>
+        <ul>
+            <li>The App, including its design, code, and content, is owned by Shiftly</li>
+            <li>All trademarks, logos, and brand names are our property</li>
+            <li>You may not copy, modify, or distribute the App without our written permission</li>
+        </ul>
+
+        <h3>Your Rights</h3>
+        <ul>
+            <li>You retain ownership of your data</li>
+            <li>You may export your data at any time</li>
+        </ul>
+
+        <h2>8. Advertising</h2>
+        <p>The App displays advertisements through Google AdMob. By using the free version of the App, you agree to view these advertisements. Premium users may have ads removed as part of their subscription.</p>
+
+        <h2>9. Subscription Services (If Applicable)</h2>
+        <h3>Premium Features</h3>
+        <ul>
+            <li>Premium subscriptions may be available for additional features</li>
+            <li>Subscription fees are charged in advance</li>
+            <li>Subscriptions automatically renew unless cancelled</li>
+            <li>You may cancel your subscription at any time</li>
+        </ul>
+
+        <h3>Refunds</h3>
+        <ul>
+            <li>Refund policies are subject to the app store's terms (Google Play / App Store)</li>
+            <li>We do not provide direct refunds - all refunds must be processed through the app store</li>
+        </ul>
+
+        <h2>10. Limitation of Liability</h2>
+        <p><strong>TO THE MAXIMUM EXTENT PERMITTED BY LAW:</strong></p>
+        <ul>
+            <li>The App is provided "as is" without warranties of any kind</li>
+            <li>We do not guarantee that the App will be error-free or uninterrupted</li>
+            <li>We are not liable for any indirect, incidental, or consequential damages</li>
+            <li>We are not liable for any loss of data, profits, or business opportunities</li>
+            <li>Our total liability shall not exceed the amount you paid for the App (if any)</li>
+        </ul>
+
+        <h2>11. Indemnification</h2>
+        <p>You agree to indemnify and hold harmless Shiftly, its developers, and affiliates from any claims, damages, or expenses arising from:</p>
+        <ul>
+            <li>Your use of the App</li>
+            <li>Your violation of these Terms</li>
+            <li>Your violation of any third-party rights</li>
+        </ul>
+
+        <h2>12. Termination</h2>
+        <h3>By You</h3>
+        <ul>
+            <li>You may stop using the App at any time</li>
+            <li>You may delete your account at any time</li>
+        </ul>
+
+        <h3>By Us</h3>
+        <p>We may suspend or terminate your access to the App if:</p>
+        <ul>
+            <li>You violate these Terms</li>
+            <li>You engage in fraudulent or illegal activity</li>
+            <li>We discontinue the App (with reasonable notice)</li>
+        </ul>
+
+        <h2>13. Changes to Terms</h2>
+        <p>We may update these Terms from time to time. We will notify you of significant changes by:</p>
+        <ul>
+            <li>Posting the updated Terms in the App</li>
+            <li>Updating the "Last Updated" date</li>
+            <li>Sending an email notification (if applicable)</li>
+        </ul>
+        <p>Your continued use of the App after changes constitutes acceptance of the new Terms.</p>
+
+        <h2>14. Governing Law</h2>
+        <p>These Terms are governed by the laws of Israel. Any disputes shall be resolved in the courts of Israel.</p>
+
+        <h2>15. Dispute Resolution</h2>
+        <p>If you have a dispute with us, you agree to:</p>
+        <ol>
+            <li>First contact us at Shiftlyapp1@gmail.com to attempt to resolve the dispute</li>
+            <li>If unresolved, disputes will be resolved through binding arbitration in Israel</li>
+        </ol>
+
+        <h2>16. Severability</h2>
+        <p>If any provision of these Terms is found to be invalid or unenforceable, the remaining provisions shall remain in full effect.</p>
+
+        <h2>17. Entire Agreement</h2>
+        <p>These Terms, together with our <a href="https://tony9201.github.io/Shiftly--privacy-policy/">Privacy Policy</a>, constitute the entire agreement between you and Shiftly regarding the App.</p>
+
+        <h2>18. Contact Information</h2>
+        <div class="contact-info">
+            <p>If you have questions about these Terms, please contact us:</p>
+            <p><strong>Email:</strong> <a href="mailto:Shiftlyapp1@gmail.com">Shiftlyapp1@gmail.com</a></p>
+            <p><strong>App:</strong> Settings → Contact Info</p>
+        </div>
+
+        <h2>19. Acknowledgment</h2>
+        <p>By using the App, you acknowledge that you have read, understood, and agree to be bound by these Terms of Service.</p>
+
+        <hr style="margin: 40px 0; border: none; border-top: 2px solid #ddd;">
+
+        <p style="text-align: center; color: #666; font-size: 0.9em;">
+            <strong>Note:</strong> These Terms of Service are provided in English. For Hebrew speakers, please contact support for assistance.
+        </p>
+
+        <div class="hebrew-section">
+            <h2>תנאי שימוש (עברית)</h2>
+            <p>על ידי שימוש באפליקציה Shiftly, אתה מסכים לתנאים הבאים:</p>
+            <ul>
+                <li>האפליקציה מסופקת "כפי שהיא" ללא אחריות</li>
+                <li>חישובי השכר הם הערכות בלבד ואינם מחליפים את חישובי המעסיק</li>
+                <li>אתה אחראי לדיוק המידע שאתה מזין</li>
+                <li>אתה רשאי למחוק את החשבון שלך בכל עת</li>
+            </ul>
+            <p>לשאלות, צור קשר: <a href="mailto:Shiftlyapp1@gmail.com">Shiftlyapp1@gmail.com</a></p>
+        </div>
+    </div>
+</body>
+</html>
+
